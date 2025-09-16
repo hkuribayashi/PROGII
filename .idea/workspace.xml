@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3076b4c8-69da-457c-853f-80058c9296ac" name="Changes" comment="" />
+    <list default="true" id="3076b4c8-69da-457c-853f-80058c9296ac" name="Changes" comment="Atualizado com exemplos de 12/09/2025">
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Cao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Porta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestaCasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestaPorta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorCao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorPessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +32,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hkuribayashi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hkuribayashi/PROGII.git&quot;,
+    &quot;accountId&quot;: &quot;7e7ecf3d-3be4-4ac5-80a3-9bba5ee3a490&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="32QfkBgcBuG1yLOVojfJ0YNa4fG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestaCasa.executor": "Run",
+    "Application.TestaPorta.executor": "Run",
+    "Application.TestadorCao.executor": "Debug",
+    "Application.TestadorContas.executor": "Debug",
     "Application.TestadorDeGatos.executor": "Run",
     "Application.TestadorDeGatos2.executor": "Run",
     "Application.TestadorDeGatos3.executor": "Run",
+    "Application.TestadorPessoa.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -45,23 +82,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestadorDeGatos3">
-    <configuration name="TestadorDeGatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestadorDeGatos" />
+  <component name="RunManager" selected="Application.TestadorContas">
+    <configuration name="TestaCasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaCasa" />
       <module name="PROGII" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestadorDeGatos2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestadorDeGatos2" />
+    <configuration name="TestaPorta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaPorta" />
       <module name="PROGII" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestadorDeGatos3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestadorDeGatos3" />
+    <configuration name="TestadorCao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestadorCao" />
+      <module name="PROGII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestadorContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestadorContas" />
+      <module name="PROGII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestadorPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestadorPessoa" />
       <module name="PROGII" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,9 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestadorDeGatos3" />
-        <item itemvalue="Application.TestadorDeGatos2" />
-        <item itemvalue="Application.TestadorDeGatos" />
+        <item itemvalue="Application.TestadorContas" />
+        <item itemvalue="Application.TestadorCao" />
+        <item itemvalue="Application.TestaCasa" />
+        <item itemvalue="Application.TestaPorta" />
+        <item itemvalue="Application.TestadorPessoa" />
       </list>
     </recent_temporary>
   </component>
@@ -91,11 +144,29 @@
       <option name="presentableId" value="Default" />
       <updated>1757357857880</updated>
       <workItem from="1757357859006" duration="7392000" />
-      <workItem from="1757367227868" duration="44000" />
+      <workItem from="1757367227868" duration="104000" />
+      <workItem from="1757600497021" duration="5000" />
+      <workItem from="1757696859617" duration="13014000" />
+      <workItem from="1757964601866" duration="3983000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualizado com exemplos de 12/09/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizado com exemplos de 12/09/2025" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorCao.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,3 +1,5 @@
+package exemplos09;
+
 public class Cao {
     String nome;
     Integer qtdComidaDispoinivel;

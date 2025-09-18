@@ -1,3 +1,5 @@
+package exemplos09;
+
 public class Gato {
     String nome;
     Integer qtdComidaDisponivel;

@@ -5,17 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3076b4c8-69da-457c-853f-80058c9296ac" name="Changes" comment="Atualizado com exemplos de 12/09/2025">
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Cao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Casa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Porta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestaCasa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestaPorta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorCao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorContas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/Ponto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/TestaPonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exercicios/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exercicios/TestaConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exercicios/TestaConta2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Cao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/Cao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Casa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/Casa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/Porta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/Porta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestaCasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/TestaCasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestaPorta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/TestaPorta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorCao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/TestadorCao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/TestadorContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorDeGatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/TestadorDeGatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorDeGatos2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/TestadorDeGatos2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorDeGatos3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/TestadorDeGatos3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorPessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/TestadorPessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +54,10 @@
     &quot;accountId&quot;: &quot;7e7ecf3d-3be4-4ac5-80a3-9bba5ee3a490&quot;
   }
 }</component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -62,6 +72,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.TestaCasa.executor": "Run",
+    "Application.TestaConta.executor": "Run",
+    "Application.TestaConta2.executor": "Run",
+    "Application.TestaPonto.executor": "Run",
     "Application.TestaPorta.executor": "Run",
     "Application.TestadorCao.executor": "Debug",
     "Application.TestadorContas.executor": "Debug",
@@ -82,37 +95,55 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestadorContas">
-    <configuration name="TestaCasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestaCasa" />
+  <component name="RunManager" selected="Application.TestaPonto">
+    <configuration name="TestaConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.TestaConta" />
       <module name="PROGII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaPorta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestaPorta" />
+    <configuration name="TestaConta2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.TestaConta2" />
       <module name="PROGII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaPonto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exemplos09.TestaPonto" />
+      <module name="PROGII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exemplos09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TestadorCao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestadorCao" />
+      <option name="MAIN_CLASS_NAME" value="exemplos09.TestadorCao" />
       <module name="PROGII" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TestadorContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestadorContas" />
-      <module name="PROGII" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestadorPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestadorPessoa" />
+      <option name="MAIN_CLASS_NAME" value="exemplos09.TestadorContas" />
       <module name="PROGII" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaPonto" />
+        <item itemvalue="Application.TestaConta2" />
+        <item itemvalue="Application.TestaConta" />
         <item itemvalue="Application.TestadorContas" />
         <item itemvalue="Application.TestadorCao" />
-        <item itemvalue="Application.TestaCasa" />
-        <item itemvalue="Application.TestaPorta" />
-        <item itemvalue="Application.TestadorPessoa" />
       </list>
     </recent_temporary>
   </component>
@@ -147,8 +178,19 @@
       <workItem from="1757367227868" duration="104000" />
       <workItem from="1757600497021" duration="5000" />
       <workItem from="1757696859617" duration="13014000" />
-      <workItem from="1757964601866" duration="3983000" />
+      <workItem from="1757964601866" duration="4622000" />
+      <workItem from="1758216863083" duration="3406000" />
+      <workItem from="1758220767949" duration="4379000" />
     </task>
+    <task id="LOCAL-00001" summary="Atualizado com exemplos de 12/09/2025">
+      <option name="closed" value="true" />
+      <created>1757982219480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757982219480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +204,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/TestadorCao.java</url>
+          <url>file://$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos09/TestadorCao.java</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

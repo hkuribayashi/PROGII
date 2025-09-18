@@ -1,3 +1,5 @@
+package exemplos09;
+
 public class TestadorPessoa {
 
     public static void main(String[] args) {

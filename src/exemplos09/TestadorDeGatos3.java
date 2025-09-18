@@ -1,3 +1,5 @@
+package exemplos09;
+
 public class TestadorDeGatos3 {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package exemplos09;
+
 public class Porta {
     //true se a porta está aberta e false caso contrário
     Boolean aberta;

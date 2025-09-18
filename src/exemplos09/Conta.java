@@ -1,3 +1,5 @@
+package exemplos09;
+
 public class Conta {
 
     Integer numero;

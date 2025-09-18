@@ -1,3 +1,5 @@
+package exemplos09;
+
 import java.util.Scanner;
 
 public class TestadorDeGatos2 {

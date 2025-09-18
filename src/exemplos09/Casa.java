@@ -1,3 +1,5 @@
+package exemplos09;
+
 public class Casa {
    String cor;
    Porta porta1;

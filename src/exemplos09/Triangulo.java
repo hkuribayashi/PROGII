@@ -6,6 +6,7 @@ public class Triangulo {
     Ponto p2;
     Ponto p3;
 
+    //A. Construtor que inicialize o código, o nome e a dimensão do país;
     Triangulo(Ponto p1, Ponto p2, Ponto p3) {
         this.p1 = p1;
         this.p2 = p2;

@@ -1,24 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="unnamed" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3076b4c8-69da-457c-853f-80058c9296ac" name="Changes" comment="Atualizado com exemplos de 13/10/2025">
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos10/Analista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos10/Diretor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos10/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos10/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos10/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos10/PessoaFisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos10/TestaFuncionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplos10/TesteHeranca.java" afterDir="false" />
+    <list default="true" id="3076b4c8-69da-457c-853f-80058c9296ac" name="Changes" comment="Atualizado com exemplos de 27/10/2025">
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/br/unifesspa/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplo03/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplo03/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/exemplo03/TesteConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/Navio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/TestaCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/TesteNavio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/questao01/Apresentacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/questao01/Artigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/questao01/Discente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/questao01/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/questao01/TestaJornada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/questao02/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PROGI-Programação I/Codigos/PROGII/src/provap1/questao02/Ponto.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,39 +75,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.TestaCarro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestaCasa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestaConta.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestaConta2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestaFuncionario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestaPonto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestaPorta.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestadorCao.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.TestadorContas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestadorDeGatos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestadorDeGatos2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestadorDeGatos3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestadorPessoa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exemplos10.TestaConta.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exemplos10.TestaConta2.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/hugokuribayashi/Library/CloudStorage/GoogleDrive-hugo@unifesspa.edu.br/My Drive/Disciplinas/PROGI-Programação I/Codigos/PROGII/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TestaCarro.executor": "Run",
+    "Application.TestaCasa.executor": "Run",
+    "Application.TestaConta.executor": "Run",
+    "Application.TestaConta2.executor": "Run",
+    "Application.TestaFuncionario.executor": "Run",
+    "Application.TestaPonto.executor": "Run",
+    "Application.TestaPorta.executor": "Run",
+    "Application.TestadorCao.executor": "Debug",
+    "Application.TestadorContas.executor": "Run",
+    "Application.TestadorDeGatos.executor": "Run",
+    "Application.TestadorDeGatos2.executor": "Run",
+    "Application.TestadorDeGatos3.executor": "Run",
+    "Application.TestadorPessoa.executor": "Run",
+    "Application.TesteConta.executor": "Run",
+    "Application.TesteNavio.executor": "Run",
+    "Application.exemplos10.TestaConta.executor": "Run",
+    "Application.exemplos10.TestaConta2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/hugokuribayashi/Library/CloudStorage/GoogleDrive-hugo@unifesspa.edu.br/My Drive/Disciplinas/PROGI-Programação I/Codigos/PROGII/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.TestaFuncionario">
+}]]></component>
+  <component name="RunManager" selected="Application.TesteConta">
     <configuration name="TestaCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exemplos10.TestaCarro" />
       <module name="PROGII" />
@@ -117,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaPonto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exemplos09.TestaPonto" />
+    <configuration name="TesteConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exemplo03.TesteConta" />
       <module name="PROGII" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exemplos09.*" />
+          <option name="PATTERN" value="exemplo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestadorContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exemplos09.TestadorContas" />
+    <configuration name="TesteNavio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="provap1.TesteNavio" />
       <module name="PROGII" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exemplos09.*" />
+          <option name="PATTERN" value="provap1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,19 +181,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteConta" />
+        <item itemvalue="Application.TesteNavio" />
         <item itemvalue="Application.TestaFuncionario" />
         <item itemvalue="Application.TestaCarro" />
         <item itemvalue="Application.exemplos10.TestaConta2" />
-        <item itemvalue="Application.TestadorContas" />
-        <item itemvalue="Application.TestaPonto" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -195,7 +218,12 @@
       <workItem from="1760381170501" duration="1097000" />
       <workItem from="1760383036384" duration="4778000" />
       <workItem from="1761587527483" duration="3503000" />
-      <workItem from="1761591902936" duration="3044000" />
+      <workItem from="1761591902936" duration="3128000" />
+      <workItem from="1762367403437" duration="852000" />
+      <workItem from="1762368562569" duration="7000" />
+      <workItem from="1771015578895" duration="1113000" />
+      <workItem from="1773082255493" duration="2448000" />
+      <workItem from="1773162355569" duration="8983000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizado com exemplos de 12/09/2025">
       <option name="closed" value="true" />
@@ -245,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760450557516</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Atualizado com exemplos de 27/10/2025">
+      <option name="closed" value="true" />
+      <created>1761597416868</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761597416868</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +291,8 @@
     <MESSAGE value="Atualizado com exemplos de 12/09/2025" />
     <MESSAGE value="Atualizado com exemplos de 29/09/2025" />
     <MESSAGE value="Atualizado com exemplos de 13/10/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizado com exemplos de 13/10/2025" />
+    <MESSAGE value="Atualizado com exemplos de 27/10/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizado com exemplos de 27/10/2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
